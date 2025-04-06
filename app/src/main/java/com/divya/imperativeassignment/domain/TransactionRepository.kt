@@ -1,5 +1,8 @@
-package com.divya.imperativeassignment
+package com.divya.imperativeassignment.domain
 
+import com.divya.imperativeassignment.Data.SecurePrefs
+import com.divya.imperativeassignment.model.LoginRequest
+import com.divya.imperativeassignment.remote.ApiService
 
 
 class TransactionRepository(

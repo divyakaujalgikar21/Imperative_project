@@ -1,4 +1,4 @@
-package com.divya.imperativeassignment
+package com.divya.imperativeassignment.model
 
 data class LoginResponse(
     val token: String

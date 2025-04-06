@@ -1,6 +1,10 @@
-package com.divya.imperativeassignment
+package com.divya.imperativeassignment.di
 
 import android.content.Context
+import com.divya.imperativeassignment.Data.SecurePrefs
+import com.divya.imperativeassignment.domain.TransactionRepository
+import com.divya.imperativeassignment.domain.TransactionUseCase
+import com.divya.imperativeassignment.remote.ApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

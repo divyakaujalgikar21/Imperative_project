@@ -1,4 +1,4 @@
-package com.divya.imperativeassignment
+package com.divya.imperativeassignment.presentation
 
 import android.os.Bundle
 import androidx.activity.compose.setContent

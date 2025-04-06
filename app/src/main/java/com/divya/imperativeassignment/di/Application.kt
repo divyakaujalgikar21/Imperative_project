@@ -1,4 +1,4 @@
-package com.divya.imperativeassignment
+package com.divya.imperativeassignment.di
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

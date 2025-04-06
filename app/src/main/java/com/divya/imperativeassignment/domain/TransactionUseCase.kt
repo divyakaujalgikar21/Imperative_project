@@ -1,4 +1,4 @@
-package com.divya.imperativeassignment
+package com.divya.imperativeassignment.domain
 
 class TransactionUseCase(private val repository: TransactionRepository) {
     suspend fun login(username: String, password: String) = repository.login(username, password)
